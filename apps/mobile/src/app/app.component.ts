@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 @Component({
-  selector: 'nx-ionic-sample4-root',
+  selector: 'nx-ionic-sample-root',
   templateUrl: 'app.component.html',
   styleUrls: ['app.component.scss'],
 })

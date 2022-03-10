@@ -5,7 +5,7 @@
       "projectType": "application",
       "root": "apps/mobile",
       "sourceRoot": "apps/mobile/src",
-      "prefix": "nx-ionic-sample4",
+      "prefix": "nx-ionic-sample",
       "targets": {
         "build": {
           "executor": "@angular-devkit/build-angular:browser",
@@ -224,7 +224,7 @@
       "projectType": "library",
       "root": "libs/shared",
       "sourceRoot": "libs/shared/src",
-      "prefix": "nx-ionic-sample4",
+      "prefix": "nx-ionic-sample",
       "targets": {
         "test": {
           "executor": "@nrwl/jest:jest",

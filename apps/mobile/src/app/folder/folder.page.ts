@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 
 @Component({
-  selector: 'nx-ionic-sample4-folder',
+  selector: 'nx-ionic-sample-folder',
   templateUrl: './folder.page.html',
   styleUrls: ['./folder.page.scss'],
 })
